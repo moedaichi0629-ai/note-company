@@ -39,7 +39,7 @@ backlog.md           ネタ帳
 
 ## 最初にやること
 
-1. `company/services.md` にココナラ3サービスの内容を貼る
+1. `company/services.md` の【要確認】（URLとサービスの対応）を埋める
 2. `company/profile.md` の【要記入】を埋める
 3. 既存の note 記事や X 投稿があれば `company/style-guide.md` の「見本」に貼る
 4. `/article-plan` を実行

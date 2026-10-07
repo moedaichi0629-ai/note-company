@@ -5,13 +5,15 @@
 
 ## 主力作品（集客記事の主な素材）
 
+「関連サービス」は `services.md` の番号。
+
 | 作品 | リポジトリ | 内容 | 関連サービス |
 |---|---|---|---|
-| 美容室向けLINE問い合わせAI Bot | https://github.com/moedaichi0629-ai/line-reservation-bot | 営業時間・設備などの質問へ、登録済みFAQをもとにAIが回答 | 【要記入】 |
-| Googleマップ店舗情報収集・営業管理ツール | https://github.com/moedaichi0629-ai/hp-tataki-generator | 店舗情報を集めてHP制作の提案先を一覧管理 | 【要記入】 |
-| クラウドワークスAI営業支援システム | https://github.com/moedaichi0629-ai/crowdworks-sales-assistant | 案件収集〜適合度分析〜応募文作成〜KPI振り返り | 【要記入】 |
-| GAS × AI ブログ記事下書き生成ツール | https://github.com/moedaichi0629-ai/gas-ai-blog-automation | キーワードからタイトル・本文・メタディスクリプションを生成 | 【要記入】 |
-| Googleサービス連携 予約受付自動化ツール | https://github.com/moedaichi0629-ai/google-booking-automation | フォーム回答→カレンダー登録→完了メール→記録 | 【要記入】 |
+| 美容室向けLINE問い合わせAI Bot | https://github.com/moedaichi0629-ai/line-reservation-bot | 営業時間・設備などの質問へ、登録済みFAQをもとにAIが回答 | ポートフォリオ |
+| Googleマップ店舗情報収集・営業管理ツール | https://github.com/moedaichi0629-ai/hp-tataki-generator | 店舗情報を集めてHP制作の提案先を一覧管理 | ポートフォリオ |
+| クラウドワークスAI営業支援システム | https://github.com/moedaichi0629-ai/crowdworks-sales-assistant | 案件収集〜適合度分析〜応募文作成〜KPI振り返り | ポートフォリオ |
+| GAS × AI ブログ記事下書き生成ツール | https://github.com/moedaichi0629-ai/gas-ai-blog-automation | キーワードからタイトル・本文・メタディスクリプションを生成 | サービス3（スプレッドシート） |
+| Googleサービス連携 予約受付自動化ツール | https://github.com/moedaichi0629-ai/google-booking-automation | フォーム回答→カレンダー登録→完了メール→記録 | サービス2（Google連携）／サービス1（メール） |
 
 ## 補助作品・学習作品
 
